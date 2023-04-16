@@ -10,6 +10,11 @@ With the ```mount.sh``` and ```unmount.sh``` scripts, you can mount the TempleOS
 
 ## Usage
 
+### Requirements
+
+- qemu
+- qemu-utils
+
 **The process in which you do this is very important.**
 
 1. Place the ```mount.sh``` and ```unmount.sh``` in the same directory as your ```TempleOS.vdi``` image.
